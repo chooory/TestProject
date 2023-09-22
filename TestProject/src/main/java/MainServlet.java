@@ -17,6 +17,11 @@ public class MainServlet extends HttpServlet {
 		
 		System.out.println("master 브랜치 추가");
 		System.out.println("hotfix 브랜치 추가");
+		
+		
+		System.out.println("hotfix 브랜치 두번째  추가");
+		System.out.println("master 브랜치 두번째 추가");
+		
 	}
 
 	/**
