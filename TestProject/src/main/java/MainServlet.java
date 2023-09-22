@@ -13,6 +13,7 @@ public class MainServlet extends HttpServlet {
        
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("MainServlet 생성");
+		System.out.println("hotfix 브랜치 내용 변경");
 	}
 
 	/**
